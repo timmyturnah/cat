@@ -494,4 +494,4 @@ Meow,
       await client.send_message(message.channel, 'Bye!')
       sys.exit()
 
-client.run('MzE3OTU1MjQwNTQyNDcwMTU0.DAsnQw.4SaY_G7_4oMa22n4VtBYhuW4EVM')
+client.run('**')
